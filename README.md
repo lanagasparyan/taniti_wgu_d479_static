@@ -10,7 +10,7 @@ The Taniti Tourism Website Prototype is a responsive and user-friendly web proto
 
 You can preview the prototype by following this link: [Taniti Tourism Website Prototype](https://lanagasparyan.github.io/taniti_wgu_d479_static/)
 
-![Taniti Tourism Website Preview](![Preview](image.png))
+![Preview](image.png)
 
 ## Features
 
